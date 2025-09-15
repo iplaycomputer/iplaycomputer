@@ -32,6 +32,9 @@ Building projects in **Terraform, Ansible, CI/CD, and containerization** to brid
 - [Digital Garden: How to Turn Scattered Notes into Cyber Knowledge](https://www.linkedin.com/pulse/digital-garden-how-turn-scattered-notes-cyber-knowledge-sam-tindle-ew45e/) — Sharing techniques to organize personal cyber learning.  
 - [How to Turn Your Android into a Pocket Cybersecurity Lab with Termux](https://www.linkedin.com/pulse/how-turn-your-android-pocket-cybersecurity-lab-termux-sam-tindle-s0tmc/) — Guide to setting up Termux-based tools on Android for on-the-go security work.  
 
+## Planned
+- **Make Huion tablets work with Vroid** → Going to call it "HuionWinTabBridge" Purpose (Huion → VRoid fix) and method (WinTab/driver shim)
+  
 ---
 
 ## 📫 Let’s Connect
