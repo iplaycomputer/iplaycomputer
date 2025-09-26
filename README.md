@@ -28,7 +28,17 @@
   <img src="https://img.shields.io/badge/OSINT-5A5A5A?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img alt="O - Openness" src="https://img.shields.io/badge/O%20%7C%20Creative-113-DB508E?style=flat&labelColor=A83E6E">
 
+  <img alt="C - Conscientiousness" src="https://img.shields.io/badge/C%20%7C%20Driven-91-45A069?style=flat&labelColor=33774F">
+
+  <img alt="E - Sociable" src="https://img.shields.io/badge/E%20%7C%20Sociable-104-4573D5?style=flat&labelColor=3555A3">
+
+  <img alt="A - Cooperative" src="https://img.shields.io/badge/A%20%7C%20Cooperative-108-E0A030?style=flat&labelColor=B37C24">
+
+  <img alt="N | Calm" src="https://img.shields.io/badge/N%20%7C%20Calm-50-8C7BA5?style=flat&labelColor=5A4F6E">
+</p>
 
 ## Featured Projects
 - **[Hybrid AD / Azure AD / O365 Lab](https://github.com/iplaycomputer/hybrid-ad-azure-lab)**  
@@ -62,7 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iplaycomputer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iplaycomputer&theme=tokyonight" alt="GitHub streak" />
 </p>
-
 
 
 ## Let’s Connect
