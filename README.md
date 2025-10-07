@@ -72,11 +72,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iplaycomputer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iplaycomputer&theme=tokyonight" alt="GitHub streak" />
 </p>
-
-
-## Let’s Connect
-<p>
-  <a href="https://linkedin.com/in/sam-t-a6706235b">
-    <img src="https://img.shields.io/badge/LinkedIn-Sam%20Tindle-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
